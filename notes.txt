@@ -1,0 +1,23 @@
+1. py -m venv cargospectre
+2. cargospectre\Scripts\activate
+3. py -m pip install sqlalchemy
+4. Set initial datetime for main.py
+5. Create WTS_SPECTRE_ROUTINE sp 
+6. Update update_truckmate.py to include only non-updated results
+7. Add not approved to tm_functions
+8. Create SPECTRE admin status
+9. Create Synergize workflow
+10. Error Catching
+
+
+Exclude web orders
+Still update weight 
+Add status 'SPECTRE'
+
+
+
+
+Lauren meeting 
+
+Where to put weight on web orders
+Scale receipt
